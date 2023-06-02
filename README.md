@@ -20,26 +20,21 @@ This application was designed with the following features:
 - Default Avatar
 
 ### How to Run
-1. View the website [here](). Or, clone this repository to your local machine.
+1. View the website [here](). <br/>Or, clone this repository to your local machine.
 2. And then install dependencies:
-> Open a terminal and navigate to the root directory of the project.
-<br/>
-> Run **npm install** to install the dependencies for the Node.js server.
-<br/>
-> Run **npm run client-install** to install the dependencies for the frontend.
-<br/>
+> Open a terminal and navigate to the root directory of the project.<br/>
+> Run **npm install** to install the dependencies for the Node.js server.<br/>
+> Run **npm run client-install** to install the dependencies for the frontend.<br/>
 > Run **npm run migrate** to set up the database.
 
 3. So that you can start the application:
-> Run **npm run server** to start the Node.js server.
-<br/>
+> Run **npm run server** to start the Node.js server.<br/>
 > Run **npm run client** to start the React.js frontend.
+### Note
 
-#### Note
+* Database connections in the backend are handled using my personal MongoDB acount.
 
-* Database connections in the backend are handled using the [Mongoose ORM](https://mongoosejs.com/) using my personal MongoDB acount.
-
-#### Part of the Assessment
+### Part of the Assessment
 
 This repository is part of the 4th assessment for ASG application.
 Message me for questions/clarifications.
