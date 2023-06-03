@@ -20,7 +20,7 @@ This application was designed with the following features:
 - Default Avatar
 
 ### How to Run
-1. View the website [here](). <br/>Or, clone this repository to your local machine.
+1. Clone this repository to your local machine.
 2. And then install dependencies:
 > Open a terminal and navigate to the root directory of the project.<br/>
 > Run **npm install** to install the dependencies for the Node.js server.<br/>
