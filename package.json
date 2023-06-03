@@ -9,7 +9,7 @@
         "server": "nodemon server.js",
         "client": "npm start --prefix client",
         "dev": "concurrently \"npm run server\" \"npm run client\""
-    },
+    }, 
     "author": "Xeno Xerxes Masong",
     "dependencies": {
         "bcryptjs": "^2.4.3",
