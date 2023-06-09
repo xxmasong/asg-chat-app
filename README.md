@@ -1,4 +1,4 @@
-# ASG: Chat Application
+# SImple Chat Application
 
 This repo consists of a simple **Chat Application**.
 <br/>
@@ -33,8 +33,3 @@ This application was designed with the following features:
 ### Note
 
 * Database connections in the backend are handled using my personal MongoDB acount.
-
-### Part of the Assessment
-
-This repository is part of the 4th assessment for ASG application.
-Message me for questions/clarifications.
