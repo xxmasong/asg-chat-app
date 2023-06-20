@@ -1,10 +1,12 @@
-# SImple Chat Application
+# Simple Chat Application
 
 This repo consists of a simple **Chat Application**.
 <br/>
 The frontend is built with traditional yet simple version of Material UI running on top of React.Js.
 <br/>
 The backend is built with Express.js and Node.js and Socket.io.
+<br/>
+Additional Features will be added.
 <br/>
 
 ### Features
